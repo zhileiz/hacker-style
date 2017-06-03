@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
+gem 'devise', '~> 4.3'
 
 
 # Use Capistrano for deployment
